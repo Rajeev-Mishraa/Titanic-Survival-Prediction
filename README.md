@@ -12,7 +12,7 @@ The **Titanic Survival Prediction** project demonstrates a complete machine lear
 Through this notebook, we build and optimize classification models to predict passenger survival outcomes, showcasing essential data science practices for structured datasets.
 
 ## 📊 Dataset
-**Source:** [Kaggle – Customer Segmentation: Clustering](https://www.kaggle.com/competitions/titanic)  
+**Source:** [Titanic - Machine Learning from Disaster](https://www.kaggle.com/competitions/titanic)  
 
 ### 🔍 Key Highlights
 - Performed **data cleaning** and handled missing values efficiently.  
